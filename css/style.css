@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(241, 241, 200);
+}
+
+h1 {
+    font-size: 75px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+pre {
+    font-size: 25px;
+}
